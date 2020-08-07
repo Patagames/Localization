@@ -307,4 +307,7 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
   <data name="err0058" xml:space="preserve">
     <value>Specific path is not supported on this platform</value>
   </data>
+  <data name="errLicensePlatform" xml:space="preserve">
+    <value>The specified license key is not supported on this platform.</value>
+  </data>
 </root>
