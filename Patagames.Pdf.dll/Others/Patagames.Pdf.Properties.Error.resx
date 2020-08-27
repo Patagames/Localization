@@ -305,7 +305,7 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
     <value>This method cannot accept newly created documents. If you pass such a document as an argument, the RequiredDataIsAbsentException will be thrown. To get the instance of the PdfDocument class that can be passed to the FromPdfDocument method, you must save the document to a temporary file or an array of bytes, and then open it with the PdfDocument.Load.</value>
   </data>
   <data name="err0058" xml:space="preserve">
-    <value>Specific path is not supported on this platform</value>
+    <value>System.Drawing.Image does not support {0} pixel format on this platform.</value>
   </data>
   <data name="errLicensePlatform" xml:space="preserve">
     <value>The specified license key is not supported on this platform.</value>
