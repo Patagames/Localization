@@ -310,4 +310,7 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
   <data name="errLicensePlatform" xml:space="preserve">
     <value>The specified license key is not supported on this platform.</value>
   </data>
+  <data name="err0059" xml:space="preserve">
+    <value>The trial period for Pdfium.Net SDK has expired.</value>
+  </data>
 </root>
