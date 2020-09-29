@@ -133,7 +133,7 @@
     <value>Bookmark's title cannot be null or empty string</value>
   </data>
   <data name="err0006" xml:space="preserve">
-    <value>Parametr index must be between {0} and {1}</value>
+    <value>Parameter 'index' must be between {0} and {1}</value>
   </data>
   <data name="err0007" xml:space="preserve">
     <value>PdfForm object is not Initialized. Please load document whith this object as parameter</value>
@@ -312,5 +312,14 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
   </data>
   <data name="err0059" xml:space="preserve">
     <value>The trial period for Pdfium.Net SDK has expired.</value>
+  </data>
+  <data name="err0060" xml:space="preserve">
+    <value>Parameter '{0}' cannot be null or empty string.</value>
+  </data>
+  <data name="err0061" xml:space="preserve">
+    <value>An element with the same name already exists in the PdfNameTreeCollection.</value>
+  </data>
+  <data name="err0062" xml:space="preserve">
+    <value>The NameTree item could not be added.</value>
   </data>
 </root>
