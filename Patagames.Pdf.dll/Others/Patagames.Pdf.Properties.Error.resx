@@ -322,4 +322,16 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
   <data name="err0062" xml:space="preserve">
     <value>The NameTree item could not be added.</value>
   </data>
+  <data name="err0063" xml:space="preserve">
+    <value>An array of functions cannot contain null.</value>
+  </data>
+  <data name="err0064" xml:space="preserve">
+    <value>Parameter '{0}' cannot be {1}.</value>
+  </data>
+  <data name="err0065" xml:space="preserve">
+    <value>Unknown function type.</value>
+  </data>
+  <data name="err0066" xml:space="preserve">
+    <value>The underlying Dictionary/Stream is not in the correct format.</value>
+  </data>
 </root>
