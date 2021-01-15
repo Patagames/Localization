@@ -220,13 +220,13 @@
     <value>Can't find parent dictionary for given bookmark</value>
   </data>
   <data name="errLicense1" xml:space="preserve">
-    <value>The requested operation cannot be completed due to a license restrictions. You need to have at least a Developer Small Business License to be able  to complete this operation.</value>
+    <value>You need to have at least a Developer Small Business License to be able  to complete this operation.</value>
   </data>
   <data name="errLicense2" xml:space="preserve">
-    <value>The requested operation cannot be completed due to a license restrictions. You need to have at least a LITE License to be able  to complete this operation.</value>
+    <value>You need to have at least a LITE License to be able  to complete this operation.</value>
   </data>
   <data name="errLicense3" xml:space="preserve">
-    <value>The requested operation cannot be completed due to a license restrictions. You need to have a  full license to be able  to complete this operation.</value>
+    <value>You need to have a  full license to be able  to complete this operation.</value>
   </data>
   <data name="TrialLoadDocument" xml:space="preserve">
     <value>With the trial version the documents which size is smaller than 1024 Kb, or greater than 10 Mb can be loaded without any restrictions. For other documents the allowed ranges is 1.5 - 2 Mb; 2.5 - 3 Mb; 3.5 - 4 Mb and so on.</value>

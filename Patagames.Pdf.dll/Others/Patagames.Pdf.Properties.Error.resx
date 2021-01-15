@@ -211,13 +211,13 @@
     <value>Unsupported security scheme.</value>
   </data>
   <data name="errLicense1" xml:space="preserve">
-    <value>The requested operation cannot be completed due to a license restrictions. You need to have at least a Developer Small Business License to be able  to complete this operation.</value>
+    <value>You need to have at least a Developer Small Business License to be able  to complete this operation.</value>
   </data>
   <data name="errLicense2" xml:space="preserve">
-    <value>The requested operation cannot be completed due to a license restrictions. You need to have at least a LITE License to be able  to complete this operation.</value>
+    <value>You need to have at least a LITE License to be able  to complete this operation.</value>
   </data>
   <data name="errLicense3" xml:space="preserve">
-    <value>The requested operation cannot be completed due to a license restrictions. You need to have a  full license to be able  to complete this operation.</value>
+    <value>You need to have a  full license to be able  to complete this operation.</value>
   </data>
   <data name="err0030" xml:space="preserve">
     <value>An element with the same key already exists in the Dictionary object.</value>
