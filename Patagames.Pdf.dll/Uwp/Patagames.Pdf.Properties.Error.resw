@@ -337,4 +337,22 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
   <data name="err0067" xml:space="preserve">
     <value>The specified {0} is already in use by another {1}.</value>
   </data>
+  <data name="err0068" xml:space="preserve">
+    <value>The parent field is terminal. Only nonterminal fields can have child fields.</value>
+  </data>
+  <data name="err0069" xml:space="preserve">
+    <value>The specified field cannot contain more than one control.</value>
+  </data>
+  <data name="err0070" xml:space="preserve">
+    <value>The specified field cannot contain controls, since it is the parent of another field.</value>
+  </data>
+  <data name="err0071" xml:space="preserve">
+    <value>The field '{0}' has not yet been added to the DOM. Please call Document.FormFill.InterForm.Fields.Add(field) method before access its properties or methods.</value>
+  </data>
+  <data name="err0072" xml:space="preserve">
+    <value>This PdfControl has not yet been added to the DOM. Add the associated field to the Document.FormFill.InterForm.Fields collection, or call the Document.FormFill.InterForm.ReloadForms() method if the field is already in the collection.</value>
+  </data>
+  <data name="err0073" xml:space="preserve">
+    <value>Only fields with at least one control can be added to the collection.</value>
+  </data>
 </root>
