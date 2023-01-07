@@ -355,4 +355,16 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
   <data name="err0073" xml:space="preserve">
     <value>Only fields with at least one control can be added to the collection.</value>
   </data>
+  <data name="err0074" xml:space="preserve">
+    <value>The vertex array cannot be empty.</value>
+  </data>
+  <data name="err0075" xml:space="preserve">
+    <value>The vertex color is not set or has the wrong number of components.</value>
+  </data>
+  <data name="err0076" xml:space="preserve">
+    <value>Invalid number of vertices for this type of patch.</value>
+  </data>
+  <data name="err0077" xml:space="preserve">
+    <value>Invalid number of colorants.</value>
+  </data>
 </root>
