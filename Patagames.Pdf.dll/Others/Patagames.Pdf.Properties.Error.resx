@@ -317,10 +317,10 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
     <value>Parameter '{0}' cannot be null or empty string.</value>
   </data>
   <data name="err0061" xml:space="preserve">
-    <value>An element with the same name already exists in the PdfNameTreeCollection.</value>
+    <value>An element with the same key has already been added.</value>
   </data>
   <data name="err0062" xml:space="preserve">
-    <value>The NameTree item could not be added.</value>
+    <value>The item could not be added.</value>
   </data>
   <data name="err0063" xml:space="preserve">
     <value>An array of functions cannot contain null.</value>
@@ -366,5 +366,14 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
   </data>
   <data name="err0077" xml:space="preserve">
     <value>Invalid number of colorants.</value>
+  </data>
+  <data name="err0078" xml:space="preserve">
+    <value>The given page was not present in the PdfPageLabelCollection.</value>
+  </data>
+  <data name="err0079" xml:space="preserve">
+    <value>The label for the same page has already been added.</value>
+  </data>
+  <data name="err0080" xml:space="preserve">
+    <value>The object being set is associated with another document.</value>
   </data>
 </root>
