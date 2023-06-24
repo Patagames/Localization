@@ -376,4 +376,7 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
   <data name="err0080" xml:space="preserve">
     <value>The object being set is associated with another document.</value>
   </data>
+  <data name="err0034" xml:space="preserve">
+    <value>The given object is a part of list of indirect objects. Please use the SetIndirectAt(int, PdfTypeBase, PdfIndirectList) method instead.</value>
+  </data>
 </root>
