@@ -385,4 +385,7 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
   <data name="err0082" xml:space="preserve">
     <value>The file name must be 'pdfium.dll' or 'libpdfium.dylib'.</value>
   </data>
+  <data name="err0083" xml:space="preserve">
+    <value>The required entry is missing. Entry name:{0}.</value>
+  </data>
 </root>
