@@ -388,4 +388,7 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
   <data name="err0083" xml:space="preserve">
     <value>The required entry is missing. Entry name:{0}.</value>
   </data>
+  <data name="err0084" xml:space="preserve">
+    <value>The array '{0}' cannot be empty.</value>
+  </data>
 </root>
