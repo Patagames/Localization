@@ -391,4 +391,19 @@ To use latest version of SDK, you must pass the renewed key obtained during rene
   <data name="err0084" xml:space="preserve">
     <value>The array '{0}' cannot be empty.</value>
   </data>
+  <data name="err0085" xml:space="preserve">
+    <value>Requested bitmap dimensions are too big.</value>
+  </data>
+  <data name="err0086" xml:space="preserve">
+    <value>Size of the data area is not a multiple of the length of the components</value>
+  </data>
+  <data name="err0087" xml:space="preserve">
+    <value>File format violation was detected: duplicate section detected</value>
+  </data>
+  <data name="err0088" xml:space="preserve">
+    <value>Not expected parameter was detected</value>
+  </data>
+  <data name="err0089" xml:space="preserve">
+    <value>The file format is not expected</value>
+  </data>
 </root>
