@@ -156,6 +156,48 @@
 &lt;/x:xmpmeta&gt;
 &lt;?xpacket end='w'?&gt;</value>
   </data>
+  <data name="MetaZUGFerdSchema" xml:space="preserve">
+    <value>    &lt;rdf:Description xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/" xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#" xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#" rdf:about=""&gt;
+      &lt;pdfaExtension:schemas&gt;
+        &lt;rdf:Bag&gt;
+          &lt;rdf:li rdf:parseType="Resource"&gt;
+            &lt;pdfaSchema:schema&gt;Factur-X PDFA Extension Schema&lt;/pdfaSchema:schema&gt;
+            &lt;pdfaSchema:namespaceURI&gt;urn:factur-x:pdfa:CrossIndustryDocument:invoice:1p0#&lt;/pdfaSchema:namespaceURI&gt;
+            &lt;pdfaSchema:prefix&gt;fx&lt;/pdfaSchema:prefix&gt;
+            &lt;pdfaSchema:property&gt;
+              &lt;rdf:Seq&gt;
+                &lt;rdf:li rdf:parseType="Resource"&gt;
+                  &lt;pdfaProperty:name&gt;DocumentFileName&lt;/pdfaProperty:name&gt;
+                  &lt;pdfaProperty:valueType&gt;Text&lt;/pdfaProperty:valueType&gt;
+                  &lt;pdfaProperty:category&gt;external&lt;/pdfaProperty:category&gt;
+                  &lt;pdfaProperty:description&gt;The name of the embedded XML document&lt;/pdfaProperty:description&gt;
+                &lt;/rdf:li&gt;
+                &lt;rdf:li rdf:parseType="Resource"&gt;
+                  &lt;pdfaProperty:name&gt;DocumentType&lt;/pdfaProperty:name&gt;
+                  &lt;pdfaProperty:valueType&gt;Text&lt;/pdfaProperty:valueType&gt;
+                  &lt;pdfaProperty:category&gt;external&lt;/pdfaProperty:category&gt;
+                  &lt;pdfaProperty:description&gt;The type of the hybrid document in capital letters, e.g. INVOICE or ORDER&lt;/pdfaProperty:description&gt;
+                &lt;/rdf:li&gt;
+                &lt;rdf:li rdf:parseType="Resource"&gt;
+                  &lt;pdfaProperty:name&gt;Version&lt;/pdfaProperty:name&gt;
+                  &lt;pdfaProperty:valueType&gt;Text&lt;/pdfaProperty:valueType&gt;
+                  &lt;pdfaProperty:category&gt;external&lt;/pdfaProperty:category&gt;
+                  &lt;pdfaProperty:description&gt;The actual version of the standard applying to the embedded XML document&lt;/pdfaProperty:description&gt;
+                &lt;/rdf:li&gt;
+                &lt;rdf:li rdf:parseType="Resource"&gt;
+                  &lt;pdfaProperty:name&gt;ConformanceLevel&lt;/pdfaProperty:name&gt;
+                  &lt;pdfaProperty:valueType&gt;Text&lt;/pdfaProperty:valueType&gt;
+                  &lt;pdfaProperty:category&gt;external&lt;/pdfaProperty:category&gt;
+                  &lt;pdfaProperty:description&gt;The conformance level of the embedded XML document&lt;/pdfaProperty:description&gt;
+                &lt;/rdf:li&gt;
+              &lt;/rdf:Seq&gt;
+            &lt;/pdfaSchema:property&gt;
+          &lt;/rdf:li&gt;
+        &lt;/rdf:Bag&gt;
+      &lt;/pdfaExtension:schemas&gt;
+    &lt;/rdf:Description&gt;
+</value>
+  </data>
   <data name="RuberStampApproved" xml:space="preserve">
     <value>Approved</value>
   </data>
